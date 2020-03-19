@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vohyaenga.poison.kitchen/sitemap.xml
